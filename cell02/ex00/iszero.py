@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 value = int(input().strip())
 
 if value == 0:
