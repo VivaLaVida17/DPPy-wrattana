@@ -6,5 +6,5 @@ sysLen = len(sys.argv)
 if sysLen == 1 :
   print("none")
 else:
-  for i in range(1: sysLen)
-    print(sys.argv[1].upper())
+  for i in range(1, sysLen):
+    print(sys.argv[i].upper())
