@@ -3,7 +3,6 @@
 import sys
 
 def shrink(val):
-  
   return enlarge(val[0:8])
 
 def enlarge(val):
