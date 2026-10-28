@@ -1,6 +1,6 @@
 password = "Python is awesome"
 
-inputPassword = input().strip();
+inputPassword = input();
 
 if inputPassword == password :
   print("ACESS GRANTED")
